@@ -1,3 +1,4 @@
+# 某教程：https://www.52pojie.cn/thread-1119227-1-1.html
 # bili2.0  
 
 1. 本项目已经取代 <https://github.com/yjqiang/bilibili-live-tools>，旧项目已经***完全废除***，不再提供更新和 bug 修复
